@@ -1,2 +1,3 @@
-# jupyter_notebook_examples
-Look here for Jupyter Notebook examples!
+# Jupyter Notebook Examples
+
+**Look here for Jupyter Notebook examples!**
